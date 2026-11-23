@@ -1,5 +1,7 @@
 # odin-recipes
-This my practice on the first project in the odin project Fundamentals track.
+This is my practice on the first project in the Odin Project Fundamentals track.
+
+Link to Project: [odin recipes](https://adams572.github.io/odin-recipes/)
 
 ## By the end of this project I should be able to...
 - Confidently work with:
